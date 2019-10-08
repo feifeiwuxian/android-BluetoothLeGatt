@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/b74a6b033f087d059e798e5e1e77d05c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/0125d324b342faa4b91490be7d12f8cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/41057ced7980b8f6229cf4b1d39b81ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a3137b61ee553405df5195e9ae88ae45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2c1d63aa3f3c933e237286ec43265817/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0184ee2caf059b0bd1995bc7affa1704/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/940ce9060e8e999d7bd6e49ed85b6e29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b6a12fb7772af235ce56583309d94610/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9b50c96d63c347dc509bf61beedbff31/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c22b69d4e63768b98b9485b5002f0764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/125a9a66c1f853e090afa5322de00b05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9b096d31d10edef90009f18b65762eed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/10c90e33c0e561842baaf023f0d9c88b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e6d026908ddf486c13c9b5cf1b91bd2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/42654cb0a3b288711f7fb676c4eec154/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/25f0fceaa26cfc6803de8e7de61c28d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9feed2a187a73366623ac3acaa8b58f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7a7471bc37e3d554843928c15d763bbb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cfb91bb7dd94ff45b0ff9ab527a554aa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ca8ef3509fc9c5efb50da8ca43e9e94/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8897b9ee4875131f302e97fd693e0942/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6911cb3c3684eb5939b04a61b1cddf1d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1a84307e25e7658dd6333390b8b3df07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/68115e979536531fe476cd7ddf45af20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fa68659a7a899a2965832613e1491012/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/628a1065f4b1f5a7eb2eb349c3795d63/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b9fca9e2b91e121d5bb9d5f59b14a730/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/63718cc8ce1dbe22013dc3277586a258/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/990ea3a2e438d7b039c6df2a6b09cc38/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4d42c949e43b34cc45af2f1edd35f2a4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:1-52:12
+	package
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:35:5-78
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:35:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:36:22-78
+application
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:38:5-50:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cfb91bb7dd94ff45b0ff9ab527a554aa/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cfb91bb7dd94ff45b0ff9ab527a554aa/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ca8ef3509fc9c5efb50da8ca43e9e94/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ca8ef3509fc9c5efb50da8ca43e9e94/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cfb91bb7dd94ff45b0ff9ab527a554aa/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:38:18-50
+	android:icon
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:40:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:41:9-47:20
+	android:label
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:41:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:45:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:48:9-58
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:48:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:49:9-77
+	android:enabled
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:49:53-75
+	android:name
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml:49:18-52
+uses-sdk
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/b74a6b033f087d059e798e5e1e77d05c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/b74a6b033f087d059e798e5e1e77d05c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/0125d324b342faa4b91490be7d12f8cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/0125d324b342faa4b91490be7d12f8cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/41057ced7980b8f6229cf4b1d39b81ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/41057ced7980b8f6229cf4b1d39b81ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a3137b61ee553405df5195e9ae88ae45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a3137b61ee553405df5195e9ae88ae45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2c1d63aa3f3c933e237286ec43265817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2c1d63aa3f3c933e237286ec43265817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0184ee2caf059b0bd1995bc7affa1704/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0184ee2caf059b0bd1995bc7affa1704/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/940ce9060e8e999d7bd6e49ed85b6e29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/940ce9060e8e999d7bd6e49ed85b6e29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b6a12fb7772af235ce56583309d94610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b6a12fb7772af235ce56583309d94610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9b50c96d63c347dc509bf61beedbff31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/9b50c96d63c347dc509bf61beedbff31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c22b69d4e63768b98b9485b5002f0764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c22b69d4e63768b98b9485b5002f0764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/125a9a66c1f853e090afa5322de00b05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/125a9a66c1f853e090afa5322de00b05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9b096d31d10edef90009f18b65762eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9b096d31d10edef90009f18b65762eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/10c90e33c0e561842baaf023f0d9c88b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/10c90e33c0e561842baaf023f0d9c88b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e6d026908ddf486c13c9b5cf1b91bd2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e6d026908ddf486c13c9b5cf1b91bd2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/42654cb0a3b288711f7fb676c4eec154/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/42654cb0a3b288711f7fb676c4eec154/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/25f0fceaa26cfc6803de8e7de61c28d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/25f0fceaa26cfc6803de8e7de61c28d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9feed2a187a73366623ac3acaa8b58f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9feed2a187a73366623ac3acaa8b58f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7a7471bc37e3d554843928c15d763bbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7a7471bc37e3d554843928c15d763bbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cfb91bb7dd94ff45b0ff9ab527a554aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/cfb91bb7dd94ff45b0ff9ab527a554aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ca8ef3509fc9c5efb50da8ca43e9e94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ca8ef3509fc9c5efb50da8ca43e9e94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8897b9ee4875131f302e97fd693e0942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8897b9ee4875131f302e97fd693e0942/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6911cb3c3684eb5939b04a61b1cddf1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6911cb3c3684eb5939b04a61b1cddf1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1a84307e25e7658dd6333390b8b3df07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/1a84307e25e7658dd6333390b8b3df07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/68115e979536531fe476cd7ddf45af20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/68115e979536531fe476cd7ddf45af20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fa68659a7a899a2965832613e1491012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fa68659a7a899a2965832613e1491012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/628a1065f4b1f5a7eb2eb349c3795d63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/628a1065f4b1f5a7eb2eb349c3795d63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b9fca9e2b91e121d5bb9d5f59b14a730/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b9fca9e2b91e121d5bb9d5f59b14a730/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/63718cc8ce1dbe22013dc3277586a258/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/63718cc8ce1dbe22013dc3277586a258/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/990ea3a2e438d7b039c6df2a6b09cc38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/990ea3a2e438d7b039c6df2a6b09cc38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4d42c949e43b34cc45af2f1edd35f2a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wangfei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4d42c949e43b34cc45af2f1edd35f2a4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/src/main/AndroidManifest.xml

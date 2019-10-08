@@ -1,0 +1,4 @@
+#Tue Mar 05 16:58:01 CST 2019
+base.0=/Users/wangfei/Desktop/androidDemo/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
